@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975242833505",
+    "firebase_url": "https://mahasiswa-4ef9f.firebaseio.com",
+    "project_id": "mahasiswa-4ef9f",
+    "storage_bucket": "mahasiswa-4ef9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975242833505:android:1b483ee10d3cf468530420",
+        "android_client_info": {
+          "package_name": "com.andrelg.tas_murah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975242833505-jdiijr1ll44t2uhb49vu48pbj6kl0nvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIULv4l8-RG771-i-KX3o4CjrYcIfhgsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975242833505-jdiijr1ll44t2uhb49vu48pbj6kl0nvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
